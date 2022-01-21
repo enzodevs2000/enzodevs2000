@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Atualmente, estou no quinto período
-- 🌱 No momento, estou estudando JavaScript, a linguagem R e Python
+- 🔭 Atualmente, estou no sexto período
+- 🌱 No momento, estou estudando Scala, a linguagem R e Python
 - 😄 Ele/Dele
 
 <div>
