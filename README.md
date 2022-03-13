@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Atualmente, estou no sexto período
-- 🌱 No momento, estou estudando Scala, a linguagem R e Python
+- 🌱 No momento, estou estudando Java e Javascript
 - 😄 Ele/Dele
 
 <div>
