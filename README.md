@@ -25,6 +25,13 @@ Here are some ideas to get you started:
   <img  height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img  height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img  height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+          
+
+
 </div>
   
 <div>
