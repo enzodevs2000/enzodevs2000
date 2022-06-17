@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Atualmente, estou no sexto período
+- 🔭 Atualmente, estou no sétimo período
 - 🌱 No momento, estou estudando Java e Javascript
 - 😄 Ele/Dele
 
