@@ -1,21 +1,10 @@
 <h2 align="center">Olá! Bem vindo ao meu GitHub :sunglasses:</h2> 
 
-###
 
-* <p align="left">Eu sou Enzo e estudo Ciência da Computação na UnB :trollface: .</p>
-
-###
-
-<p align="left">Atualmente estou no sétimo período</p>
-
-###
-
-* <p align="left">No momento estou focando na linguagem Java, pois o meu objetivo é me tornar um Dev Back-End nessa linguagem</p>
-
-###
-
-* <p align="left">Ele/Dele</p>
-
+* <p align="left">Eu sou Enzo e estudo Ciência da Computação na UnB. :trollface:  </p>
+* <p align="left">Atualmente estou no sétimo período :computer: </p>
+* <p align="left">No momento estou focando na linguagem Java :coffee:, pois o meu objetivo é me tornar um Dev Back-End nessa linguagem</p>
+* <p align="left">Ele/Dele :man:</p>
 ###
 
 <div align="center">
@@ -31,7 +20,7 @@
 
 ###
 
-<h3 align="center">Tecnologias</h3>
+<h2 align="center">Tecnologias</h2>
 
 ###
 
@@ -53,7 +42,10 @@
 
 ###
 
-<div align="left">
+<div align="center">
+  <h2>Contato</h2>
+</div>
+<div align="center">
   <a href="https://www.linkedin.com/in/enzo-sampaio-b77a051b1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
