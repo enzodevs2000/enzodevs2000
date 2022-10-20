@@ -2,8 +2,9 @@
 
 
 * <p align="left">Eu sou Enzo e estudo Ciência da Computação na UnB. :trollface:  </p>
-* <p align="left">Atualmente estou no sétimo período :computer: </p>
-* <p align="left">No momento estou focando na linguagem Java :coffee:, pois o meu objetivo é me tornar um Dev Back-End nessa linguagem</p>
+* <p align="left">Atualmente estou no oitavo período :computer: </p>
+* <p align="left">No momento estou focando na linguagem JavaScript e seus frameworks</p>
+* <p align="left">Estou em treinamento na empresa júnior CJR!</p>
 * <p align="left">Ele/Dele :man:</p>
 ###
 
@@ -32,6 +33,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+</div>
+
+###
+
+<h2 align="center">Estudando</h2>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="css3 logo"  />
+          
+  
 </div>
 
 ###
