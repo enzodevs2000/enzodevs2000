@@ -2,9 +2,9 @@
 
 
 * <p align="left">Eu sou Enzo e estudo Ciência da Computação na UnB. :trollface:  </p>
-* <p align="left">Atualmente estou no oitavo período :computer: </p>
-* <p align="left">No momento estou focando na linguagem JavaScript e seus frameworks</p>
-* <p align="left">Estou em treinamento na empresa júnior CJR!</p>
+* <p align="left">Atualmente estou no nono período :computer: </p>
+* <p align="left">No momento estou estudando Python e Rust</p>
+* <p align="left">Estou me especializando na área de Cibersegurança</p>
 * <p align="left">Ele/Dele :man:</p>
 ###
 
